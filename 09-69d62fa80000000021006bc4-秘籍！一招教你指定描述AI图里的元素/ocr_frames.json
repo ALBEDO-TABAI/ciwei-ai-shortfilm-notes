@@ -1,0 +1,538 @@
+[
+  {
+    "file": "f_0001.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 6,
+    "text": "我发现很多人",
+    "kept": false
+  },
+  {
+    "file": "f_0002.jpg",
+    "score": 3.0,
+    "conf": 0.978,
+    "chars": 10,
+    "text": "都在闭着眼睛写提示词",
+    "kept": false
+  },
+  {
+    "file": "f_0003.jpg",
+    "score": 0.0,
+    "conf": 0.983,
+    "chars": 10,
+    "text": "如果让你删掉这个东西",
+    "kept": false
+  },
+  {
+    "file": "f_0004.jpg",
+    "score": 0.0,
+    "conf": 0.0,
+    "chars": 0,
+    "text": "",
+    "kept": false
+  },
+  {
+    "file": "f_0005.jpg",
+    "score": 0.0,
+    "conf": 0.974,
+    "chars": 35,
+    "text": "图片\nImage\n帮我去掉墙上的海报\nBanana Pro\n田9:16",
+    "kept": false
+  },
+  {
+    "file": "f_0006.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 8,
+    "text": "这种方法确实能用",
+    "kept": false
+  },
+  {
+    "file": "f_0007.jpg",
+    "score": 0.0,
+    "conf": 1.0,
+    "chars": 7,
+    "text": "但一旦元素变多",
+    "kept": false
+  },
+  {
+    "file": "f_0008.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 6,
+    "text": "你根本说不清",
+    "kept": false
+  },
+  {
+    "file": "f_0009.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 9,
+    "text": "自己要改的是哪一个",
+    "kept": false
+  },
+  {
+    "file": "f_0010.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 10,
+    "text": "很多人改图失败的原因",
+    "kept": false
+  },
+  {
+    "file": "f_0011.jpg",
+    "score": 0.0,
+    "conf": 0.833,
+    "chars": 79,
+    "text": "cnISUP\nERI\nM SUPFY\nSUP\nAISUPERI\nSUP\nPERI SUPEHI\nERI SUPE\nSUPERI\nDF\n那今天的视频\nRI\nRI",
+    "kept": false
+  },
+  {
+    "file": "f_0012.jpg",
+    "score": 0.0,
+    "conf": 0.782,
+    "chars": 20,
+    "text": "UPERI\nER\n如何解决这个棘手的问题",
+    "kept": false
+  },
+  {
+    "file": "f_0013.jpg",
+    "score": 8.0,
+    "conf": 0.917,
+    "chars": 222,
+    "text": "AIGC线上直播课2.0超级预售\nAI工作流服务\n学习模式\n商业模式\n全部\n商业教程\n提示词教程\n会员系列课\n极致精品\n搜索品类“3C美妆科技Q\nsuper individual\n系列课\n如何解决这个棘手的问题\n【提示词教程】秘籍！如何'指定修改'AI图里的元素\nS\n7\nsuperindividual\n创意\n加包用\n提扣楼尿视频转龙收\n【创新玩法第四节】运动镜头不穿帮：横屏视频无损转竖屏图文教\n程\nS\n横屏转竖屏，运\n7\nAI无损横屏转竖屏",
+    "kept": true
+  },
+  {
+    "file": "f_0014.jpg",
+    "score": 8.0,
+    "conf": 0.93,
+    "chars": 298,
+    "text": "但是，AI（哪怕是目前最聪明的多模态模型）并没有人类的通感。AI的底层逻\n辑是基于Token（词元）的概率预测与顺序执行。它是一台绝对理性的信息处\n理机器。\n人类思维\nAI处理\n并行意境\n情绪通感\n00000\n序列执行\nToken队列\n情绪通感\n整体构思\n拆解渲染\n2.“顺序执行”带来的灾难：割裂感与幻觉\n老规矩资料都整理好了\n如果你按照人类正常的叙事逻辑写提示词，通常会犯下这样的错误：\n【常规错误写法】：先写动作->再写细节->最后写镜头。\n例如：一个男人走进房间，然后坐下，镜头缓慢推进。\n0:00/0:05\n看似毫无逻辑破绽，对吧？但在AI的线性执行序列中，这个过程变成了“切香\n肠”：",
+    "kept": true
+  },
+  {
+    "file": "f_0015.jpg",
+    "score": 14.0,
+    "conf": 0.959,
+    "chars": 414,
+    "text": "“反向提示词策略“的核心之一，便是将摄影机的光学属性与运动轨迹前置，随\n后描述空间环境，最后再填入人物的具体动作。\n强制AI建立一个具备特定透视关系、景深效果和运动状态的“空间场”。当这个\n动态框架确立后，随后输入的人物动作便会被自然地“包裹“在这个镜头场之\n中。\nWRONG\nETHOD\n人物动作→环境→镜头\nCORRECTMETHOD\n银头场包要一切\n有需要的朋友可以自取\n2.2进阶实操：用专业摄影机参数定调\n为了进一步提升画面的工业级质感，我们不仅要前置镜头，还要前置具体的光\n学参数和美学风格。这能有效唤醒大模型中关于高质量电影影像的训练数据。\n常见错误写法：（演员先动，机器乱摇）\n常规顺向示例：“一个穿着绿裙子的女人在复古走廊里快步走，镜头一直跟着\n她拍，然后镜头转一圈，再拍她走到落地窗前，裙摆飘动，侧逆光柔和。”\n（生成缺陷：动作执行完毕后镜头才开始介入，或者人物动作幅度与镜头推进速\n度不匹配，缺乏真实感。）",
+    "kept": true
+  },
+  {
+    "file": "f_0016.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 11,
+    "text": "首先我们要搞清楚一件事",
+    "kept": false
+  },
+  {
+    "file": "f_0017.jpg",
+    "score": 0.0,
+    "conf": 0.963,
+    "chars": 68,
+    "text": "图片\nS\nImage\nAI在改图的时候\n帮我把角色xiognK\n1胸口\n2胸卡3胸廓4胸5熊\nnode\nBanana Pro\n田9:16",
+    "kept": false
+  },
+  {
+    "file": "f_0018.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 67,
+    "text": "图片\nImage\n并不是在真正理解你的描述\n帮我把角色胸口左边的红色d\n1词\n2此3次4刺\nnode\nBanana Pro\n田9:16",
+    "kept": false
+  },
+  {
+    "file": "f_0019.jpg",
+    "score": 0.0,
+    "conf": 0.952,
+    "chars": 47,
+    "text": "发布\n分享\n片\n图片\nnode_822\n他只是根据你给的信息\nLOFleuR\nnode_823",
+    "kept": false
+  },
+  {
+    "file": "f_0020.jpg",
+    "score": 0.0,
+    "conf": 0.914,
+    "chars": 58,
+    "text": "Q\n发布\n分享\n图片\n图片\n去猜你说的是哪一块\nLECFeUuR\nLCFleuR\nnode_823\nnode_822",
+    "kept": false
+  },
+  {
+    "file": "f_0021.jpg",
+    "score": 0.0,
+    "conf": 0.888,
+    "chars": 55,
+    "text": "左边\nS\n右边\n所以如果你用左边右边\nATVE\n这个东西\nFLEUR\nleFeur\nLCFL\nR\n原图\n生成后",
+    "kept": false
+  },
+  {
+    "file": "f_0022.jpg",
+    "score": 0.0,
+    "conf": 0.912,
+    "chars": 57,
+    "text": "左边\nS\n右边\n这那个去描述位置的时候\n.VE\n这个东西\nFLBUR\ncHeur\nLCFL\n工成后\n右边的那个刺绣",
+    "kept": false
+  },
+  {
+    "file": "f_0023.jpg",
+    "score": 0.0,
+    "conf": 0.79,
+    "chars": 51,
+    "text": "在AI眼里这些信息很模糊\nSuperi\nLTVES\nFLEUR\neHeur\nPeur\nLECFleUR",
+    "kept": false
+  },
+  {
+    "file": "f_0024.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "那怎么解决这个问题",
+    "kept": false
+  },
+  {
+    "file": "f_0025.jpg",
+    "score": 8.0,
+    "conf": 0.853,
+    "chars": 91,
+    "text": "nadng\nFelre\n我们只需要标出来\nLCFLeUR\n1536×2752\nCrop\nSelect area\nRemove background\nEditwithprompt\n+只",
+    "kept": true
+  },
+  {
+    "file": "f_0026.jpg",
+    "score": 0.0,
+    "conf": 0.826,
+    "chars": 13,
+    "text": "FL\n要修改的元素就可以了",
+    "kept": false
+  },
+  {
+    "file": "f_0027.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 10,
+    "text": "这里要讲一个小知识点",
+    "kept": false
+  },
+  {
+    "file": "f_0028.jpg",
+    "score": 23.0,
+    "conf": 0.942,
+    "chars": 371,
+    "text": "Vintage cinematic photograph, young woman sitting\nholding a thin stick nearher face, looking away thoug\nScattered books, playing cards, another doll on the be\nofa young feral child in a primitive brown tunicriding a large mandrill.They arerunning acrossa dry yell\noopof mandrills.heanimalshavevivid redandbluefaces.armsunlight,clearsky,kicking updustacti\nealistic.l\n就是提示词",
+    "kept": true
+  },
+  {
+    "file": "f_0029.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 6,
+    "text": "你上传的图片",
+    "kept": false
+  },
+  {
+    "file": "f_0030.jpg",
+    "score": 3.0,
+    "conf": 0.865,
+    "chars": 57,
+    "text": "OPERI\nISUPERI SI\nUPFD.\n也是提示词的一种\nSuperi\nCEVE\nFLBUR\nLCFleUR",
+    "kept": false
+  },
+  {
+    "file": "f_0031.jpg",
+    "score": 0.0,
+    "conf": 0.98,
+    "chars": 61,
+    "text": "图片\nS\nImage\n在AI修改的时候\n帮我把标号1红色箭头指着的地方\nBananaPro\n田9:16\n2K\nde_824",
+    "kept": false
+  },
+  {
+    "file": "f_0032.jpg",
+    "score": 5.0,
+    "conf": 0.964,
+    "chars": 83,
+    "text": "图片\nS\n图片提示词的权重是最高的\n帮我把标号1红色箭头指着的地方的刺绣改成superi，并\n去掉红色的1和箭头\nBanana Pro\n田9:16\n2K\nde_824",
+    "kept": false
+  },
+  {
+    "file": "f_0033.jpg",
+    "score": 0.0,
+    "conf": 0.913,
+    "chars": 41,
+    "text": "上传\n图片\nnod4_825\n所以当你把元素标出来\nLECFleuk\nod_824",
+    "kept": false
+  },
+  {
+    "file": "f_0034.jpg",
+    "score": 0.0,
+    "conf": 0.921,
+    "chars": 44,
+    "text": "传\n图片\nS\nSupevi\n并且用文本告诉他\nnode_825\neUR\nnode_824",
+    "kept": false
+  },
+  {
+    "file": "f_0035.jpg",
+    "score": 0.0,
+    "conf": 0.86,
+    "chars": 50,
+    "text": "图片\nS\n要怎么修改的时候\nJSVE\nFLBUR\nHeur\nHour\nSuperi\nnode_825",
+    "kept": false
+  },
+  {
+    "file": "f_0036.jpg",
+    "score": 0.0,
+    "conf": 0.863,
+    "chars": 47,
+    "text": "S\n你会发现AI几乎不会改错\nmedng\nEVE\nFLEUR\neD\nleHeur\nSuperi",
+    "kept": false
+  },
+  {
+    "file": "f_0037.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 11,
+    "text": "你把原本需要理解的信息",
+    "kept": false
+  },
+  {
+    "file": "f_0038.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 12,
+    "text": "变成了可以直接识别的内容",
+    "kept": false
+  },
+  {
+    "file": "f_0039.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 12,
+    "text": "变成了可以直接识别的内容",
+    "kept": false
+  },
+  {
+    "file": "f_0040.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 9,
+    "text": "那我们可以进阶一点",
+    "kept": false
+  },
+  {
+    "file": "f_0041.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "如果你想把一个物体",
+    "kept": false
+  },
+  {
+    "file": "f_0042.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 8,
+    "text": "移动到另一个位置",
+    "kept": false
+  },
+  {
+    "file": "f_0043.jpg",
+    "score": 0.0,
+    "conf": 0.937,
+    "chars": 50,
+    "text": "图片\n日\nImage\nbagf\n帮发\n帮放3帮扶4绑匪5棒法\n6\nBanana Pro\n田\n9:16",
+    "kept": false
+  },
+  {
+    "file": "f_0044.jpg",
+    "score": 0.0,
+    "conf": 0.918,
+    "chars": 44,
+    "text": "mage\n帮我把白墙上的棕色框框的挂画转移到白色门光的y\nBananaPro\n田9:16",
+    "kept": false
+  },
+  {
+    "file": "f_0045.jpg",
+    "score": 6.0,
+    "conf": 0.943,
+    "chars": 72,
+    "text": "但现在\n15362752\nCrop\nSelect area\nRemove background\nEditwithprompt\nMore\n00\n+",
+    "kept": false
+  },
+  {
+    "file": "f_0046.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 24,
+    "text": "2\n你只需要把两个位置标出来\n1536×2752",
+    "kept": false
+  },
+  {
+    "file": "f_0047.jpg",
+    "score": 0.0,
+    "conf": 0.924,
+    "chars": 68,
+    "text": "图片\n2\nImage\n然后造诉AI怎么移动\n把标1的挂画\n位置\n2为止3未知4为之\nBanana Pro\n田\n9:16\nnode_&su",
+    "kept": false
+  },
+  {
+    "file": "f_0048.jpg",
+    "score": 0.0,
+    "conf": 0.906,
+    "chars": 43,
+    "text": "Q\nQ\n发布\n分享\n上传\n图片\n2\nme_B31\n它就会直接帮你完成\nnode_838",
+    "kept": false
+  },
+  {
+    "file": "f_0049.jpg",
+    "score": 0.0,
+    "conf": 0.93,
+    "chars": 28,
+    "text": "发布\n分享\n图片\n+\n甚至连大小和透视\nnode_831",
+    "kept": false
+  },
+  {
+    "file": "f_0050.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 12,
+    "text": "但这里有一个很关键的细节",
+    "kept": false
+  },
+  {
+    "file": "f_0051.jpg",
+    "score": 3.0,
+    "conf": 0.963,
+    "chars": 14,
+    "text": "在你打标的时候\n62×210",
+    "kept": false
+  },
+  {
+    "file": "f_0052.jpg",
+    "score": 0.0,
+    "conf": 0.708,
+    "chars": 18,
+    "text": "这个物体的关键特征\n、#\nQ‘HO‘",
+    "kept": false
+  },
+  {
+    "file": "f_0053.jpg",
+    "score": 0.0,
+    "conf": 0.974,
+    "chars": 16,
+    "text": "这个物体的关键特征\n62×210",
+    "kept": false
+  },
+  {
+    "file": "f_0054.jpg",
+    "score": 0.0,
+    "conf": 0.992,
+    "chars": 10,
+    "text": "比如轮廓结构或者主体",
+    "kept": false
+  },
+  {
+    "file": "f_0055.jpg",
+    "score": 0.0,
+    "conf": 0.981,
+    "chars": 9,
+    "text": "AI就会又开始猜了",
+    "kept": false
+  },
+  {
+    "file": "f_0056.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "最后生成出来的东西",
+    "kept": false
+  },
+  {
+    "file": "f_0057.jpg",
+    "score": 0.0,
+    "conf": 0.869,
+    "chars": 17,
+    "text": "UPERI\n这套方法\nSCnOOL",
+    "kept": false
+  },
+  {
+    "file": "f_0058.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 10,
+    "text": "本质上并不是一个技巧",
+    "kept": false
+  },
+  {
+    "file": "f_0059.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 9,
+    "text": "而是一个方式的改变",
+    "kept": false
+  },
+  {
+    "file": "f_0060.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 10,
+    "text": "你以前是在用语言描述",
+    "kept": false
+  },
+  {
+    "file": "f_0061.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "而现在你是在用视觉",
+    "kept": false
+  },
+  {
+    "file": "f_0062.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 10,
+    "text": "当你换了这种方式之后",
+    "kept": false
+  },
+  {
+    "file": "f_0063.jpg",
+    "score": 0.0,
+    "conf": 0.993,
+    "chars": 7,
+    "text": "AI改图这件事",
+    "kept": false
+  },
+  {
+    "file": "f_0064.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 9,
+    "text": "可以精准控制的过程",
+    "kept": false
+  },
+  {
+    "file": "f_0065.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 8,
+    "text": "这一招你学会了吗",
+    "kept": false
+  },
+  {
+    "file": "f_0066.jpg",
+    "score": 0.0,
+    "conf": 0.969,
+    "chars": 10,
+    "text": "带你学习更多AI技巧",
+    "kept": false
+  },
+  {
+    "file": "f_0067.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 29,
+    "text": "一个聚焦ai创意者的学习与接单平台\n@刺猬星球superi",
+    "kept": false
+  }
+]

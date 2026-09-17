@@ -1,0 +1,474 @@
+[
+  {
+    "file": "f_0001.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 11,
+    "text": "你之所以做不好AI视频",
+    "kept": false
+  },
+  {
+    "file": "f_0002.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 11,
+    "text": "是因为你永远站着看世界",
+    "kept": false
+  },
+  {
+    "file": "f_0003.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 5,
+    "text": "同样的场景",
+    "kept": false
+  },
+  {
+    "file": "f_0004.jpg",
+    "score": 6.0,
+    "conf": 0.976,
+    "chars": 101,
+    "text": "0:00/0:05\n+主体\n图片：\n镜头，中间的师傅在指责两边的小徒弟，真的是气\n武侠电影感\n可灵V3\n生成方式\n文生视频\n图生视频\n模式\n标准\n专业\n声音\n关闭\n开启\n时长\n3s\n5s\n10s\n15s",
+    "kept": false
+  },
+  {
+    "file": "f_0005.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 11,
+    "text": "画面是不是瞬间有感觉了",
+    "kept": false
+  },
+  {
+    "file": "f_0006.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 11,
+    "text": "画面是不是瞬间有感觉了",
+    "kept": false
+  },
+  {
+    "file": "f_0007.jpg",
+    "score": 3.0,
+    "conf": 0.996,
+    "chars": 6,
+    "text": "如何用低角度",
+    "kept": false
+  },
+  {
+    "file": "f_0008.jpg",
+    "score": 6.0,
+    "conf": 0.991,
+    "chars": 30,
+    "text": "刺猬星球提示词教学之如何利用\n如何利用低角度拍摄让画面更真实",
+    "kept": false
+  },
+  {
+    "file": "f_0009.jpg",
+    "score": 11.0,
+    "conf": 0.949,
+    "chars": 190,
+    "text": "AIGC线上直播课2.0超级预售\nAI工作流服务\n学习模式\n商业模式\n全部\n商业教程\n提示词教程\n会员系列课\n极致精品\n搜索品类\"3C美妆科技Q\n系列课\n老规矩资料我都整理好了\n【提示词教程】如何用低角度视角让你的ai视频更真实？\n（持续更\n新中）\nS\n7\nsuper individual\n系列课\n【创意玩法第二节】60秒看懂21种神仙排版！附全套A提示词\nsup\nA绘商A设计",
+    "kept": true
+  },
+  {
+    "file": "f_0010.jpg",
+    "score": 14.0,
+    "conf": 0.855,
+    "chars": 404,
+    "text": "“反间提示词策璐“的核心之一，便是习团加业的光件抓专童业训Ⅲ，\n启准莲空们可位，健童男集入人体的只体动作，\n强制AI建立一个具备特定透视关系、景深效果和运动状态的“空间场”。当这个\n动态框架确立后，随后输入的人物动作便会被自然地“包裹”在这个镜头场之\nWRONG\nETHOD\n人物动作→环境→镜头\nCORRECTMETHOD\n9]\n领头场包哥一切\n有需要的可以找我拿\n2.2进价实量：用专业指彩机效定训\n为了进一步提开面面的工业级质画，我们不仅要前画键头，还要前置具体的光\n学参数和美学风格，这能有效唤匹大模型中关工高质量电影影像的训练数据，\n常见链璞写法：（厦员先助，机乱扣）\n常规顺向示例：“一个穿着绿裙子的女人在复古走里快步走，镜头一直跟着\n她拍，然后镜头转一圈，再拍她走到落地固前，裙摆飘动，侧逆光柔和。\n生成缺陷，动作执行完毕后锁失才开始介入，或者人物动作幅度与镜头推进遗\n度不匹配，缺乏真实感。）",
+    "kept": true
+  },
+  {
+    "file": "f_0011.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 9,
+    "text": "大多数人做AI视频",
+    "kept": false
+  },
+  {
+    "file": "f_0012.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 11,
+    "text": "喜欢用正面+平视的机位",
+    "kept": false
+  },
+  {
+    "file": "f_0013.jpg",
+    "score": 0.0,
+    "conf": 0.992,
+    "chars": 10,
+    "text": "画面虽然看起来很清晰",
+    "kept": false
+  },
+  {
+    "file": "f_0014.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 10,
+    "text": "画面虽然看起来很清晰",
+    "kept": false
+  },
+  {
+    "file": "f_0015.jpg",
+    "score": 0.0,
+    "conf": 0.993,
+    "chars": 8,
+    "text": "本质是旁观者视角",
+    "kept": false
+  },
+  {
+    "file": "f_0016.jpg",
+    "score": 0.0,
+    "conf": 0.989,
+    "chars": 7,
+    "text": "观众很难被带入",
+    "kept": false
+  },
+  {
+    "file": "f_0017.jpg",
+    "score": 0.0,
+    "conf": 0.939,
+    "chars": 25,
+    "text": "金川天心晴移腐儒富改到\n星球\n星球\n一旦画面太标准",
+    "kept": false
+  },
+  {
+    "file": "f_0018.jpg",
+    "score": 0.0,
+    "conf": 0.854,
+    "chars": 28,
+    "text": "消星球\n金川天心暗移腐儒富改刻\n星球\n就会有很强的摆拍感",
+    "kept": false
+  },
+  {
+    "file": "f_0019.jpg",
+    "score": 0.0,
+    "conf": 0.757,
+    "chars": 34,
+    "text": "张厘淡孤臣夹\n免郎更是引不合時家周宫制成何\n你的画面没有实拍感的原因",
+    "kept": false
+  },
+  {
+    "file": "f_0020.jpg",
+    "score": 0.0,
+    "conf": 0.993,
+    "chars": 6,
+    "text": "那怎么解决呢",
+    "kept": false
+  },
+  {
+    "file": "f_0021.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 10,
+    "text": "很简单就是把镜头压低",
+    "kept": false
+  },
+  {
+    "file": "f_0022.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 29,
+    "text": "图片\n添加\n比如这个人物向前走的镜头\nT\nnode_347",
+    "kept": false
+  },
+  {
+    "file": "f_0023.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 49,
+    "text": "图片\n视\nrenw\n1人物\n2认为\n3任务4人\nHailuo2.3推荐\n时长\n6秒\n10秒\n分辨率",
+    "kept": false
+  },
+  {
+    "file": "f_0024.jpg",
+    "score": 12.0,
+    "conf": 0.976,
+    "chars": 140,
+    "text": "视频\nSeedance2.0（即将上线）\nHailuo2.3推荐\nVideo\nHailuo2.3快速\nHailuo02首尾帧\nVEO3.1\n可灵KlingO1\n是而移动\n可灵V3\n可灵V3Omni\nHailuo2.3推荐\n时长\n6秒\n10秒\n分辨率\n768P\n1080P\n高级设置",
+    "kept": true
+  },
+  {
+    "file": "f_0025.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 18,
+    "text": "视频\n但是会很平淡\nnode_348",
+    "kept": false
+  },
+  {
+    "file": "f_0026.jpg",
+    "score": 3.0,
+    "conf": 0.985,
+    "chars": 24,
+    "text": "视频\n如果我们把提示词改成这样\nnode_348",
+    "kept": false
+  },
+  {
+    "file": "f_0027.jpg",
+    "score": 7.0,
+    "conf": 0.984,
+    "chars": 73,
+    "text": "node_347\n0:05\n主体\n图片：\n镜头迅速下移到低角度贴近地面，人物\n可灵V3\n生成方式\n文生视频\n图生视频\n模式\n标准\n专业\n声音\n关闭",
+    "kept": false
+  },
+  {
+    "file": "f_0028.jpg",
+    "score": 21.0,
+    "conf": 0.969,
+    "chars": 302,
+    "text": "发布\n已公开\n14,983\n图片\n视频\n+主体\n图片：\n镜头迅速下移到低角度贴近地面，以低角度俯视的视角跟随人物向前走\nnoc\n的腿一步步向前走，溅起的水花点点落在镜头上，人物向前走去，镜头\n移动\n可灵V3\n生成方式\n图生视频\n模式\n标准\n专业\n声音\n关闭\n开启\n时长\n3s\n5s\n10s\n15s\n多镜头\n关闭\n开启\n运镜\n不使用（智能匹配）\n不希壁出现的内容、如：模精变形：低画质\n负向提示词可透，《2500宇符\n图生模式：连接1-2张图片（首顿+可选尾领），图片IPG/PNG，≤10MB，≥30\n12.5-2.5：1，尾帧与运镇互斤。时长3-15s（分镜≤6个（每段≤512字符）|主体\n支持首尾帧",
+    "kept": true
+  },
+  {
+    "file": "f_0029.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "画面立刻有了空间感",
+    "kept": false
+  },
+  {
+    "file": "f_0030.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 8,
+    "text": "你在现场看的感觉",
+    "kept": false
+  },
+  {
+    "file": "f_0031.jpg",
+    "score": 3.0,
+    "conf": 0.997,
+    "chars": 5,
+    "text": "因为低角度",
+    "kept": false
+  },
+  {
+    "file": "f_0032.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 9,
+    "text": "会天然带来两个东西",
+    "kept": false
+  },
+  {
+    "file": "f_0033.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 4,
+    "text": "地面前景",
+    "kept": false
+  },
+  {
+    "file": "f_0034.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 10,
+    "text": "甚至脚步都会进入画面",
+    "kept": false
+  },
+  {
+    "file": "f_0035.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 5,
+    "text": "物会被拉长",
+    "kept": false
+  },
+  {
+    "file": "f_0036.jpg",
+    "score": 0.0,
+    "conf": 1.0,
+    "chars": 6,
+    "text": "空间会被放大",
+    "kept": false
+  },
+  {
+    "file": "f_0037.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 9,
+    "text": "这是被拍出来的感觉",
+    "kept": false
+  },
+  {
+    "file": "f_0038.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 7,
+    "text": "我们再进阶一点",
+    "kept": false
+  },
+  {
+    "file": "f_0039.jpg",
+    "score": 3.0,
+    "conf": 0.998,
+    "chars": 7,
+    "text": "不要只写低角度",
+    "kept": false
+  },
+  {
+    "file": "f_0040.jpg",
+    "score": 9.0,
+    "conf": 0.967,
+    "chars": 127,
+    "text": "mode_347\n0:05/0:0\n+主体\n图片：\n要给他一个拍摄状态\nsh镜头迅速下移到超低角度，几乎完全在\n1水花\n2说3审核4是5谁会\n浴江说大工，八初问前足云，院大限随八作\n可灵V3\n生成方式\n文生视频\n图生视频\n模式\n标准\n专业\n声音\n关闭\n开",
+    "kept": true
+  },
+  {
+    "file": "f_0041.jpg",
+    "score": 9.0,
+    "conf": 0.985,
+    "chars": 120,
+    "text": "mode_347\n0:05/0:0\n+主体\n图片：\n手持镜头轻微镜头迅速下移到超低角度，\n下画面，以低角度俯视的视角跟随人物向前\n的水花点点落在镜头上，人物向前走去，\n可灵V3\n生成方式\n文生视频\n图生视频\n模式\n标准\n专业\n声音\n关闭\n开",
+    "kept": true
+  },
+  {
+    "file": "f_0042.jpg",
+    "score": 6.0,
+    "conf": 0.976,
+    "chars": 122,
+    "text": "mode_347\n0:05/0:0\n+主体\n图片：\n手持镜头轻微晃动，dijia镜头迅速下移到走\n分之一的水下画面\n1低价\n2低价出\n前走，溅起的水花点点治江说大上，八物\n可灵V3\n生成方式\n文生视频\n图生视频\n模式\n标准\n专业\n声音\n关闭\n开",
+    "kept": false
+  },
+  {
+    "file": "f_0043.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 7,
+    "text": "这样出来的画面",
+    "kept": false
+  },
+  {
+    "file": "f_0044.jpg",
+    "score": 0.0,
+    "conf": 0.992,
+    "chars": 7,
+    "text": "会更像真实拍摄",
+    "kept": false
+  },
+  {
+    "file": "f_0045.jpg",
+    "score": 0.0,
+    "conf": 0.99,
+    "chars": 12,
+    "text": "而不是一个干净的生成画面",
+    "kept": false
+  },
+  {
+    "file": "f_0046.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 7,
+    "text": "我们不要一上来",
+    "kept": false
+  },
+  {
+    "file": "f_0047.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 10,
+    "text": "就直直接给全画面信息",
+    "kept": false
+  },
+  {
+    "file": "f_0048.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 13,
+    "text": "让观众有一个“发现”的过程",
+    "kept": false
+  },
+  {
+    "file": "f_0049.jpg",
+    "score": 3.0,
+    "conf": 0.983,
+    "chars": 12,
+    "text": "比如低角度从遮挡缓慢拉出",
+    "kept": false
+  },
+  {
+    "file": "f_0050.jpg",
+    "score": 3.0,
+    "conf": 0.985,
+    "chars": 12,
+    "text": "比如低角度从遮挡缓慢拉出",
+    "kept": false
+  },
+  {
+    "file": "f_0051.jpg",
+    "score": 0.0,
+    "conf": 0.992,
+    "chars": 12,
+    "text": "让观众从不明白到逐渐理解",
+    "kept": false
+  },
+  {
+    "file": "f_0052.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 12,
+    "text": "这样你的AI视频会更真实",
+    "kept": false
+  },
+  {
+    "file": "f_0053.jpg",
+    "score": 0.0,
+    "conf": 0.989,
+    "chars": 7,
+    "text": "最后记住一句话",
+    "kept": false
+  },
+  {
+    "file": "f_0054.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 7,
+    "text": "镜头不是在记录",
+    "kept": false
+  },
+  {
+    "file": "f_0055.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 8,
+    "text": "你让观众看到什么",
+    "kept": false
+  },
+  {
+    "file": "f_0056.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 7,
+    "text": "都是你来决定的",
+    "kept": false
+  },
+  {
+    "file": "f_0057.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 4,
+    "text": "你悟了吗",
+    "kept": false
+  },
+  {
+    "file": "f_0058.jpg",
+    "score": 0.0,
+    "conf": 0.982,
+    "chars": 10,
+    "text": "带你学习更多AI技巧",
+    "kept": false
+  },
+  {
+    "file": "f_0059.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 29,
+    "text": "一个聚焦ai创意者的学习与接单平台\n@刺猬星球superi",
+    "kept": false
+  }
+]
