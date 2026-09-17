@@ -1,0 +1,556 @@
+[
+  {
+    "file": "f_0001.jpg",
+    "score": 0.0,
+    "conf": 0.984,
+    "chars": 9,
+    "text": "这是我用AI生成的",
+    "kept": false
+  },
+  {
+    "file": "f_0002.jpg",
+    "score": 0.0,
+    "conf": 0.0,
+    "chars": 0,
+    "text": "",
+    "kept": false
+  },
+  {
+    "file": "f_0003.jpg",
+    "score": 3.0,
+    "conf": 0.99,
+    "chars": 11,
+    "text": "从人物走位到摄影机运镜",
+    "kept": false
+  },
+  {
+    "file": "f_0004.jpg",
+    "score": 3.0,
+    "conf": 0.996,
+    "chars": 11,
+    "text": "从人物走位到摄影机运镜",
+    "kept": false
+  },
+  {
+    "file": "f_0005.jpg",
+    "score": 3.0,
+    "conf": 0.978,
+    "chars": 14,
+    "text": "全部都是Codex帮我完成的",
+    "kept": false
+  },
+  {
+    "file": "f_0006.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 9,
+    "text": "中间没有一张参考图",
+    "kept": false
+  },
+  {
+    "file": "f_0007.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 11,
+    "text": "那今天这个视频我就教你",
+    "kept": false
+  },
+  {
+    "file": "f_0008.jpg",
+    "score": 3.0,
+    "conf": 0.986,
+    "chars": 12,
+    "text": "小白应该怎么用Codex",
+    "kept": false
+  },
+  {
+    "file": "f_0009.jpg",
+    "score": 3.0,
+    "conf": 0.976,
+    "chars": 11,
+    "text": "控制这种复杂的AI运镜",
+    "kept": false
+  },
+  {
+    "file": "f_0010.jpg",
+    "score": 30.0,
+    "conf": 0.935,
+    "chars": 760,
+    "text": "932\n1935\n1935-1935\n1936\n1936\n19371937-1938\n1930\n1939\n1930's\nWomen'sfashion\nBLOSHKA\n1931\n1931\n932\n1932\n1933\nEC6L\n1934\n1934\n老规矩资料我都整理好了\n1935\n1935\n1936\n1930\n1937\n1937\n1937\n1938\n1938\n6561\n最终，我使用即梦Seedream5.0Pro和Midjourney生成人物定妆图，再使用NanoBananaPro生成人\n物四视图，为后续站位合成和角色一致性提供参考。\n阿什福德上校：\nfull-length cinematic costume portrait of Colonel Arthur Ashford,a commanding 58-\nyear-old retired British army officerin the late I93os,tall broad-shouldered build,\nweatheredauthoritative face,silver-greyhair,thickgroomedmoustache,scar\nthrough the left eyebrow,severe watchful eyes,wearing a dramatic claret-red double-\nbreasted dinnerjacketwith extremelybroad blacksilkpeak lapels,sculpted military\nshoulders and a tightly suppressed waist,black silk waistcoat,ivorypleated evening",
+    "kept": true
+  },
+  {
+    "file": "f_0011.jpg",
+    "score": 32.0,
+    "conf": 0.919,
+    "chars": 1814,
+    "text": "圆赢和沙发是否益招住饿头：\n人物是否会互相達挡。\n视图提示词如下（使用上进行图生圈，可以使用nanobananpro/gptimage2o各生成一张）：\nview ofexactly the same singie 193os British manor drawing room,camera perfectly\nperpendicuiar to the floor,pure top-down orthographic composition,ceiling cornplotely\nremoved,the entire rectangularroom and all four wall boundaries visible edge to edge,\npreserve the original architecture,materials,colors,lighting and exact furniture\narrangement,carved fireplace centered on the upper wallantique portrait and mantel\nclock abave the fireplace,two tall rain-covered windows with emerald velvet curtains\nalong the left wall, slim writing desk and groen giass famp boside the windows,wainut\nbookshelves covering the uppor-right wall,antique gramophone positioned in trontof the\nbookshelves,closed dark double door on the right wall,large burgundy and dark-green\nsilver tea service crystal giasses decanter and ashtray.two deep-green leather armchairs\npositioned on the left and lower-loft sides of the table,one dark burgundy sofa positioned\non the lower-right side facing the table,brass drinks trolley near the right wall,preserve\nwide continuous walking paths between overy piece of furniture,minimally reconstruct\nthe unseen lowerwall without adding now abjects,warm amberfireplace light mixed with\ncold blue storm light from the windows,photoroalistic cinematic production design,highly\ndetailod wood velvet leather bross and rug textures,complete-room top-dawn\nestablishing imago,no pcople --ar16:9--v8.2--raw--hd--s25--iw2--no isametric\nvlew oblique view tilted camera perspective angle aye-level camora visible ceiling\ncropped room missing wal\nplicated furniture extra\nchairsoxtrasola有需要的朋友可以自取ddionairoms\npeople human figures silhouettes labols arrows text watormark architectural bluoprint line\ndrawing collage grid\nnanobananpro生成",
+    "kept": true
+  },
+  {
+    "file": "f_0012.jpg",
+    "score": 3.0,
+    "conf": 0.932,
+    "chars": 52,
+    "text": "导演台3\n角色C\n角色厂\n角色D\n角色B\n首先很多人控制复杂运镜\n描述想要搭建的场景，支持通过参考图创建",
+    "kept": false
+  },
+  {
+    "file": "f_0013.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 28,
+    "text": "角色C\n角色D\n角色B\n第一时间想到的就是导演台\n机位1",
+    "kept": false
+  },
+  {
+    "file": "f_0014.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 27,
+    "text": "角色D\n角色C\n角色B\n导演台确实能做一镜到底\n机位1",
+    "kept": false
+  },
+  {
+    "file": "f_0015.jpg",
+    "score": 0.0,
+    "conf": 0.975,
+    "chars": 16,
+    "text": "重置\n角色E\n但操作真的太麻烦了",
+    "kept": false
+  },
+  {
+    "file": "f_0016.jpg",
+    "score": 0.0,
+    "conf": 0.988,
+    "chars": 20,
+    "text": "角色C\n角色D\n你不仅安排人物的移动路线",
+    "kept": false
+  },
+  {
+    "file": "f_0017.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 22,
+    "text": "导演视角\n机位视角\n你不仅安排人物的移动路线",
+    "kept": false
+  },
+  {
+    "file": "f_0018.jpg",
+    "score": 0.0,
+    "conf": 0.991,
+    "chars": 13,
+    "text": "角色A\n摄影机的位置和角度",
+    "kept": false
+  },
+  {
+    "file": "f_0019.jpg",
+    "score": 0.0,
+    "conf": 0.975,
+    "chars": 26,
+    "text": "角色D\n角色F\n角色C\n角色E\n对小白来说确实很麻烦",
+    "kept": false
+  },
+  {
+    "file": "f_0020.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 19,
+    "text": "GPT-6Astra\n但我发现GPT6",
+    "kept": false
+  },
+  {
+    "file": "f_0021.jpg",
+    "score": 0.0,
+    "conf": 0.885,
+    "chars": 25,
+    "text": "极高\nGPT-6Astra\n完全能解决这个问题\n中",
+    "kept": false
+  },
+  {
+    "file": "f_0022.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 7,
+    "text": "那具体怎么做呢",
+    "kept": false
+  },
+  {
+    "file": "f_0023.jpg",
+    "score": 3.0,
+    "conf": 0.959,
+    "chars": 7,
+    "text": "自己的人物资产",
+    "kept": false
+  },
+  {
+    "file": "f_0024.jpg",
+    "score": 3.0,
+    "conf": 0.974,
+    "chars": 40,
+    "text": "聊天\n工作\n什么\nTWork\n全访问\n白选择项目\n丢给GPT让它直接根据人物资产",
+    "kept": false
+  },
+  {
+    "file": "f_0025.jpg",
+    "score": 3.0,
+    "conf": 0.945,
+    "chars": 60,
+    "text": "我们要做什么？\n根据人物资产推导\n0\n完全访问\nGPT-5.6Sol轻度\n选择项目\n插件\n丢给GPT让它直接根据人物资产",
+    "kept": false
+  },
+  {
+    "file": "f_0026.jpg",
+    "score": 3.0,
+    "conf": 0.974,
+    "chars": 64,
+    "text": "我们要做什么？\n根据人物资产推导一份一镜到底的剧情\n完全访问\nGPT-5.6Sol轻度\n白选择项目\n插件\n推导一份一镜到底的剧情",
+    "kept": false
+  },
+  {
+    "file": "f_0027.jpg",
+    "score": 5.0,
+    "conf": 0.888,
+    "chars": 627,
+    "text": "公群府悬疑事件：10个一镜到底剧情方向\n核心事件\n美键道具\n镜到底路绣\n武调包的\n文主借碰撞管家完成换信，记者拍下过程，公爵\n红色信封\n记者→管家→女主→公\n最后发现信件有假\n勇→记者\n手校量的\n记者吸引公爵注意，女主从手杖暗格取走纸条，\n手杖、纸条\n门厅→公爵→女主→管\n管家察觉异常\n家→女主离场\n文主与记奢擦肩交接胶卷，管家追查，公爵从楼\n胶卷、相机\n入口→书房→女主→记\n拍事件\n禅出现\n者→管家→楼梯\n消失的钥\n女主趁记者拍照偷走管家的书房钥匙，却在门口\n黄铜钥匙\n管家→记者→女主→横\n进见公爵\n穿大厅→书房\n被拍下的\n女主握手时向公爵递出纸片，记者偷拍，管家上\n折叠纸片、\n女主→公爵→记者→管\n交幕\n前遮挡镜头\n相机\n家→纸片特写\n拿的公\n两只相似公文包被女主调换，记者拿走目标包，\n两只公文包\n记者→长桌→女主→公\n文包\n管家随即追出\n爵→管家→出口\n女主借镜面向记者传递暗号，管家在现实空间中\n镜子、胸针\n女主→镜面→记者→管\n速挡，却让镜中秘密暴露\n家→公\n然后在AI给你的几个选择中\n提前响起\n→公\n的钟\n爱引，女主趁机取走展柜证物\n钟、证物\n人→女主→展柜\n杯客约照\n公举杯到发现杯藏着照片，试图寻找放置\n酒杯、旧照\n酒杯→公易→环绕众人\n者；镜头退揭示每个人都可能靠近过酒杯\n片\n→记者→女主\n第七码\n记者拍摄全体合影，闪光灯熄灭后美键人物位置\n相机、胶卷\n记者→六人群像一汉光\n改变，一卷证据胶片也随之消失\n遮档→管家一女主",
+    "kept": false
+  },
+  {
+    "file": "f_0028.jpg",
+    "score": 5.0,
+    "conf": 0.965,
+    "chars": 644,
+    "text": "正文\n被调包的\n女主借碰撞管家完成换信，记者拍下过程，公爵\n红色信封\n记者→管家→女主→公\n最后发现信件有假\n爵→记者\n手杖里的\n记者吸引公爵注意，女主从手杖暗格取走纸条，\n手杖、纸条\n门厅→公爵→女主→管\n管家察觉异常\n家→女主离场\n公爵府价\n女主与记者擦肩交接胶卷，管家追查，公爵从楼\n胶卷、相机\n入口→书房→女主→记\n拍事件\n梯出现\n者→管家→楼梯\n消失的钥\n女主趁记者拍照偷走管家的书房钥匙，却在门口\n黄钢钥匙\n管家→记者→女主→楼\n遇见公爵\n穿大厅→书房\n被拍下的\n女主握手时向公爵递出纸片，记者偷拍，管家上\n折叠纸片、\n女主→公爵→记者→管\n交易\n前遮挡镜头\n相机\n家→纸片特写\n错拿的公\n两只相似公文包被女主调换，记者拿走目标包，\n两只公文包\n记者→长桌→女主→公\n★★★★\n文包\n管家随即追出\n爵→管家→出口\n镜中的暗\n女主借镜面向记者传递暗号，管家在现实空间中\n镜子、胸针\n女主→镜面→记者→管\n选一个方向去拓展\n遮挡，却让镜中秘\n家→公爵\n提前响起\n医生调整怀表后，大厅钟声提前响起，所有人被\n怀表、座\n怀表→医生→座钟→众\n的钟\n吸引，女主趁机取走展柜证物\n钟、证物\n人→女主→展柜\n60\n杯底的照\n公爵举杯时发现杯底藏着照片，试图寻找放置\n酒杯、旧照\n酒杯→公爵→环绕众人\n者；镜头倒退揭示每个人都可能靠近过酒杯\n片\n→记者→女主\n第七码\n记者拍摄全体合影，闪光灯熄灭后关键人物位置\n相机、胶卷\n记者→六人群像→闪光\n改变，一卷证据胶片也随之消失\n遮挡→管家→女主",
+    "kept": false
+  },
+  {
+    "file": "f_0029.jpg",
+    "score": 5.0,
+    "conf": 0.952,
+    "chars": 362,
+    "text": "01《被调包的信》\n定位：叙事最完整，最容易让观众看懂。\n地。两人同时弯腰，女主借身体遮挡完成调包。\n变，抬头望向正在离开的女主。\n30秒节奏：\n·0-5秒：记者举起相机，镜头越肩进入大厅。\n·5-10秒：发现携带红色信封的管家，\n·10-16秒：女主制造碰撞，信封落地。\n·16-20秒：近景完成调包。\n·20-25秒：管家把假信交给公爵。\nAI给你的30秒创意\n02《手杖里的秘密》\n定位：制作难度最低，道具逻辑最清楚。\n摄影机围绕公爵移动半圈。女主从他背后经过，用戴着黑手套的等\n记者结束拍摄，公爵接过手杖。管家注意到映\n边缘展开纸条。\n30秒节奏：\n·0-6秒：管家送来手杖。\n·6-11秒：记者拦住公爵拍照。\n11-18秒：摄影机绕后，女主取\n18-24秒：公爵接过手杖，\n·24-30秒：管家发现蹭格，女主展开然",
+    "kept": false
+  },
+  {
+    "file": "f_0030.jpg",
+    "score": 5.0,
+    "conf": 0.974,
+    "chars": 668,
+    "text": "01《被调包的信》\n定位：叙事最完整，最容易让观众看懂。\n管家拿着一封醒目的深红色信封，从书房走向大厅中央的公爵。女主迎面经过，故意轻碰管家的手臂，令信封落\n地。两人同时弯腰，女主借身体遮挡完成调包。\n管家把假信交给公爵。摄影机绕过公爵时，远处的记者刚刚放下相机一一整个过程已被拍下。公爵拆信后神色骤\n变，抬头望向正在离开的女主。\n30秒节奏：\n·0一5秒：记者举起相机，镜头越肩进入大厅。\n·5-10秒：发现携带红色信封的管家。\n·10-16秒：女主制造碰撞，信封落地。\n·16-20秒：近景完成调包。\n·20-25秒：管家把假信交给公爵。\n·25一30秒：记者放下相机，公爵拆信并望向女主。\n**Blender预演重点：**碰撞位置、弯腰遮挡、摄影机下降与重新抬升。\n02《手杖里的秘密》\n很可能在30秒内完成不了\n定位：制作难度最低，道具逻辑最清楚。\n公爵站在大厅中央准备出门。管家从右侧送来手杖，记者立即上前拍照采访，迫使公爵转身面对镜头。\n摄影机围绕公爵移动半圈。女主从他背后经过，用戴着黑手套的手打开手杖暗格，取走一张卷起的纸条。\n记者结束拍摄，公爵接过手杖。管家注意到暗格没有完全闭合，抬头追寻女主。镜头最后跟随女主离开，她在画面\n边缘展开纸条。\n30秒节奏：\n0一6秒：管家送来手杖。\n6一11秒：记者拦住公爵拍照。\n11-18秒：摄影机绕后，女主取出纸条。\n18-24秒：公爵接过手杖。\n·24一30秒：管家发现暗格，女主展开纸条。\n**Blender预演重点：**四人围绕公爵形成圆形调度，摄影机轨迹可直接做半圆弧。",
+    "kept": false
+  },
+  {
+    "file": "f_0031.jpg",
+    "score": 5.0,
+    "conf": 0.96,
+    "chars": 219,
+    "text": "管家把假信交给公爵。摄影机绕过公时，\n过程已被拍下。公爵拆信后神色骤变，抬头望\n30秒节奏：\n0一5秒：记者举起相机，镜头越肩进入\n5-10秒：发现携带红色信封的管家。\n10一16秒：女主制造碰撞，信封落地。\n16一20秒：近景完成调包。\n20一25秒：管家把假信交给公爵。\n25一30秒：记者放下相机，公爵拆信并\n**Blender预演重点：**碰撞位置、弯腰遮挡\n你在0秒后停止了\n你帮我想一下\n9完全访问\n所以我们要单独再问A/一次",
+    "kept": false
+  },
+  {
+    "file": "f_0032.jpg",
+    "score": 5.0,
+    "conf": 0.975,
+    "chars": 229,
+    "text": "管家把假信交给公爵。摄影机绕过公时，\n过程已被拍下。公爵拆信后神色骤变，抬头望\n30秒节奏：\n0一5秒：记者举起相机，镜头越肩进入\n5-10秒：发现携带红色信封的管家。\n10-16秒：女主制造碰撞，信封落地。\n16一20秒：近景完成调包。\n20-25秒：管家把假信交给公爵。\n25一30秒：记者放下相机，公爵拆信并\n**Blender预演重点：**碰撞位置、弯腰遮挡\n你在0秒后停止了\n你帮我想一下这个30秒内可以解决完成吗\n完全访问\n能不能在规定时间拍摄完",
+    "kept": false
+  },
+  {
+    "file": "f_0033.jpg",
+    "score": 9.0,
+    "conf": 0.988,
+    "chars": 192,
+    "text": "你在4秒后停止了\n你帮我想一下这个30秒内可以解决完成吗\n可以完成，但原方案把动作排满了整整30秒，实际生成时容易显得赶。建议把有效剧情压到约27秒，留下3秒作为动作\n误差，并将人物间距离控制在5一7米内。\n最关键的是：观众必须同时看清”真信一掉落一假信一递交一记者拍到“这条信息链。\n推荐的30\n能不能在规定时间拍摄完\n使用ChatGPTWork\n完全访问\nGPT-5.6Sol轻度",
+    "kept": true
+  },
+  {
+    "file": "f_0034.jpg",
+    "score": 12.0,
+    "conf": 0.984,
+    "chars": 351,
+    "text": "整场只有五个必须被看清的动作：\n1.管家携带红色信封；\n2.女主制造碰撞；\n3.女主完成调包；\n4.假信送到公爵手中；\n5.记者拍下过程，公爵察觉异常。\n人物不需要跨越整个大厅。建议粗模空间控制为：\n书房门到碰撞点：约3米；\n碰撞点到公爵：约2米；\n记者与碰撞点：约4米；\n女主离开距离：约3米。\n这样摄影机总运动距离约8一10米，30秒足够。\n最大风险\n最大的生成难点不是运镜，而是“交换两封相似信件”。如果两封信完全相同，观众和视频模型都可能看不懂。\n建议设计成：\n真信：深红色，带黑色蜡封；\n假信：同为深红色，但带金色蜡封；\n女主：全程戴黑手套；\n调包时给2一3秒低机位手部近景。\n因此结论是：\n如栗可以的话接下来就让AI把这份剧本\n使用ChatGPTWork\n完全访问\nGPT-5.6Sol轻度",
+    "kept": true
+  },
+  {
+    "file": "f_0035.jpg",
+    "score": 2.0,
+    "conf": 0.952,
+    "chars": 109,
+    "text": "一镜到底场景调度图\n时长：约30秒\n场景：公爵府邸·大厅\n侧廊\n女主\n公爵\n书房\n公爵\n记者\n管家\n摄像机路线\n女主移动路线\n管家移动路线\n关键道具：信封\n休息区\n3\n信封\n侧厅\n侧厅\n变成一张半俯视的3D调度图\n入口",
+    "kept": false
+  },
+  {
+    "file": "f_0036.jpg",
+    "score": 5.0,
+    "conf": 0.981,
+    "chars": 108,
+    "text": "一镜到底场景调度图\n时长：约30秒\n场景：公爵府邸·大厅\n侧廊\n女主\n公爵\n书房\n公爵\n记者\n管家\n摄像机路线\n女主移动路线\n管家\n管家移动路线\n关键道具：信封\n休息区\n信封\n提示词大家可以用我这个\n侧厅\n记者\n入口",
+    "kept": false
+  },
+  {
+    "file": "f_0037.jpg",
+    "score": 2.0,
+    "conf": 0.985,
+    "chars": 122,
+    "text": "复制\n你先给我俯视调度图吧，要有人物站位以及摄影机路线，用简单的方坎\n行。做成一个半俯视3D示意图，图中有简易的一些场景模型，不同人物使用\n不同颜色区分，同时标出人物移动路线和摄影机完整运动路线。调度必须按\n照刚才确定的剧本，不要重新设计剧情。",
+    "kept": false
+  },
+  {
+    "file": "f_0038.jpg",
+    "score": 0.0,
+    "conf": 0.968,
+    "chars": 48,
+    "text": "汤景调度图\n大厅\n侧廊\n公爵\n书房\n管家\n休息区\n信封\n餐厅\n不同颜色区分人物\n侧厅\n记者\n入口",
+    "kept": false
+  },
+  {
+    "file": "f_0039.jpg",
+    "score": 0.0,
+    "conf": 0.993,
+    "chars": 17,
+    "text": "信封\n再标出每个人的移动路线\n记者",
+    "kept": false
+  },
+  {
+    "file": "f_0040.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 17,
+    "text": "7\n6\n以及摄影机从哪里开始\n记者",
+    "kept": false
+  },
+  {
+    "file": "f_0041.jpg",
+    "score": 0.0,
+    "conf": 0.96,
+    "chars": 19,
+    "text": "7\n6\n5\n4\n信封\n最后停在哪里\n2",
+    "kept": false
+  },
+  {
+    "file": "f_0042.jpg",
+    "score": 21.0,
+    "conf": 0.961,
+    "chars": 748,
+    "text": "初距离约8-10米，30秒定够。\n最大风险\n最大的生成难点不是运镜，而是“交换两封相似信件”。如果两封信完全相同，观众和视频模型都可能看不懂。\n建议设计成：\n真信：深红色，带黑色蜡封；\n假信：同为深红色，但带金色蜡封；\n女主：全程戴黑手套；\n调包时给2-3秒低机位手部近景。\n因此结论是：30秒可以完成，最好按27秒内容量设计；开场直接进入事件，公爵站得近，调包动作做成简单、明确的\n“压住真信一推出假信”，不要追求复杂手法。\n松开即可添加\n复。灯光温暖柔和，室内有均匀环境光，同时保留局部明暗层次，具有电影感和空间体积感。画面要突出大厅的\n通道关系、左右功能区和深处楼梯，构图清楚，空间逻辑明确，适合做运镜预演参考。不要人物，不要文字，不\n要分镜图，不要箭头，不要UI，不要平面图，真实相机拍摄感，电影场景质感，16：9。\n如果你想！\n一镜到底从女主腿开始”的视频开头，我再给你一版更适合开场机位氛围的场景提示词：\n20世纪欧\n厅内部，电影写实风格，镜头位于大厅入口内侧，低机位视角，视线朝向大厅深处。前方\n是宽阔的石材地面和\n通道，中间有一张长方形长桌，左侧是复古休息区，右侧是半开放书房，远处是高大的\n楼梯和平台区域。整\n挑高、宽散、安静、略带悬疑感，具有庄园宅邸的贵族气息。地面干净，有轻微反\n射，适ChatGPTImagu\n小腿和地面关键道具的近景拍摄。灯光柔和克制，室内暖色灯具与自然环境光共同形成\n2026年.._49.png\n层次，空间深处略微偏唱，\n具有\n剧本起交给codex\n深感，适合一镜到底运镜。不\n要人物，不要文字，不要箭头，\n6:9\n如果你要的是Blender粗模阶段的场景提示词，那我也可以再给你单独写一条“低模灰盒场景版”。\n完全访问\nGPT-5.6Sol轻度\n0",
+    "kept": true
+  },
+  {
+    "file": "f_0043.jpg",
+    "score": 8.0,
+    "conf": 0.981,
+    "chars": 211,
+    "text": "楼梯和平台区域。整体空间挑高、宽散、安静、略带悬疑感，具有庄园宅邸的贵族\n射，适合表现人物鞋子、小腿和地面关键道具的近景拍摄。灯光柔和克制，室内暖\n层次，空间深处略微偏暗，具有电影悬疑片的氛围。画面强调入口到大厅深处的纵\n要人物，不要文字，不要箭头，不要示意图，不要俯视平面图，真实电影布景感，\n如果你要的是Blender粗模阶段的场景提示词，那我也可以再给你单独写一条“低\n帮我调用b\n让他用Blender搭建\n完全访问",
+    "kept": true
+  },
+  {
+    "file": "f_0044.jpg",
+    "score": 8.0,
+    "conf": 0.968,
+    "chars": 221,
+    "text": "楼梯和平台区域。整体空间挑高、宽散、安静、略带悬疑感，具有庄园宅邸的贵\n射，适合表现人物鞋子、小腿和地面关键道具的近景拍摄。灯光柔和克制，室内\n层次，空间深处略微偏暗，具有电影悬疑片的氛围。画面强调入口到大厅深处的\n要人物，不要文字，不要箭头，不要示意图，不要俯视平面图，真实电影布景感\n如果你要的是Blender粗模阶段的场景提示词，那我也可以再给你单独写一条“\n帮我调用blender，按照剧本和调度图生成\n一个简单的粗模场景\n①完全访问",
+    "kept": false,
+    "skip": "duplicate"
+  },
+  {
+    "file": "f_0045.jpg",
+    "score": 8.0,
+    "conf": 0.976,
+    "chars": 234,
+    "text": "楼梯和平台区域。整体空间挑高、宽散、安静、略带悬疑感，具有庄园宅邸的贵\n射，适合表现人物鞋子、小腿和地面关键道具的近景拍摄。灯光柔和克制，室内\n层次，空间深处略微偏暗，具有电影悬疑片的氛围。画面强调入口到大厅深处的\n要人物，不要文字，不要箭头，不要示意图，不要俯视平面图，真实电影布景感\n如果你要的是Blender粗模阶段的场景提示词，那我也可以再给你单独写一条“\n帮我调用blender，按照剧本和调度图生成一个简单的粗mo\n末2莫3抹4摸\n模型做的很精致\n完全访问",
+    "kept": false,
+    "skip": "duplicate"
+  },
+  {
+    "file": "f_0046.jpg",
+    "score": 0.0,
+    "conf": 0.998,
+    "chars": 6,
+    "text": "人物用方块和",
+    "kept": false
+  },
+  {
+    "file": "f_0047.jpg",
+    "score": 0.0,
+    "conf": 0.997,
+    "chars": 8,
+    "text": "球体代替就可以了",
+    "kept": false
+  },
+  {
+    "file": "f_0048.jpg",
+    "score": 0.0,
+    "conf": 0.994,
+    "chars": 25,
+    "text": "极高\nGPT-6Astra\n同时让他按照刚才的剧本",
+    "kept": false
+  },
+  {
+    "file": "f_0049.jpg",
+    "score": 11.0,
+    "conf": 0.977,
+    "chars": 197,
+    "text": "先看到女主踩住信→发现信属于管家→女主偷偷拿走→交给公爵十\n现记者拍下了一切。\n0一4秒：从女主的腿开始\n镜头贴近地面，以非常低的机位拍摄女主的小键和高跟鞋。\n女主正在大厅中向前走，摄影机面对她，随着她的步伐平稳向后移动\n开头暂时不要出现女主的脸，也不要急着交代整个大厅。\n显示更多\n你在0秒后停止了\n制作人物移动和摄影机动画\n帮我按照剧本和提示词\n帮我批准\nGPT-6 Astra Ultra",
+    "kept": true
+  },
+  {
+    "file": "f_0050.jpg",
+    "score": 11.0,
+    "conf": 0.982,
+    "chars": 263,
+    "text": "复制\n图1是我生成的3D调度图，图2是场景空间参考图，实际人物调度、剧情和运镜以我下面提供的一说型\n底剧本为准。请使用Blender帮我搭建一个用于电影Previs预演的粗模场景，并制作完整的一镜到底摄\n影机动画。不需要精细建模。人物使用一个长方体作为躯干、一个球体作为头部即可，不同人物使用明\n显不同的颜色区分。场景同样以简单几何体和方块搭建，3D调度图只作为空间关系辅助，如果图片与\n文字剧本发生冲突，以文字剧本为准。最终完成30秒左右的Blender动画并输出一段可以作为AI视频\n模型运动参考的视频。\n提示词可以用这段",
+    "kept": true
+  },
+  {
+    "file": "f_0051.jpg",
+    "score": 0.0,
+    "conf": 0.986,
+    "chars": 9,
+    "text": "这样它就会给你一段",
+    "kept": false
+  },
+  {
+    "file": "f_0052.jpg",
+    "score": 3.0,
+    "conf": 0.993,
+    "chars": 11,
+    "text": "可以直接播放的运镜参考",
+    "kept": false
+  },
+  {
+    "file": "f_0053.jpg",
+    "score": 0.0,
+    "conf": 0.995,
+    "chars": 10,
+    "text": "生成一段这种视频大概",
+    "kept": false
+  },
+  {
+    "file": "f_0054.jpg",
+    "score": 2.0,
+    "conf": 0.974,
+    "chars": 95,
+    "text": "loki1010\nLO\nPlus\n剩余用量\n5 小时\n18%21:22\n1周\n59%9月21日\n升级至Pro\n了解更多\n隐藏宠要消耗80%的5小时用量\nTSpace\n邀请好友\n设置\n退出登录",
+    "kept": false
+  },
+  {
+    "file": "f_0055.jpg",
+    "score": 2.0,
+    "conf": 0.95,
+    "chars": 99,
+    "text": "loki1010\nLO\nPlus\n剩余用量\n5 小时\n18%21:22\n1周\n59%9月21日\n升级至 Pro\n了解更多\n隐藏宠要消耗80%的5小时用量\nLSpace\n邀请好友\n设置\n8,\n退出登录",
+    "kept": false
+  },
+  {
+    "file": "f_0056.jpg",
+    "score": 0.0,
+    "conf": 0.983,
+    "chars": 9,
+    "text": "性价比还是蛮不错的",
+    "kept": false
+  },
+  {
+    "file": "f_0057.jpg",
+    "score": 8.0,
+    "conf": 0.863,
+    "chars": 96,
+    "text": "视频\nVideo\n图片\n圈片2\n图片3\n图片4\n圈片\n图片6\n图片1\n圈片日\n图片\n再把人物资产和刚才\n入视频描述提示词，如：一只可\nedance2.s\n多模态\n59·12P·B秒·MP·x0",
+    "kept": true
+  },
+  {
+    "file": "f_0058.jpg",
+    "score": 8.0,
+    "conf": 0.906,
+    "chars": 249,
+    "text": "视频\nVideo\n图片：\n圈片2\n图片3\n图片\n图片S\n图片6\n图片1\n圈片8\n图片\n这段运镜一起给到sd2.5\n产标注\n频：：30秒Blender粗模运镜参考\n参考整段一镜到底的摄影机运动路线、机位高度变化、\n人物站位、人物移动方向、动作发生时间和节奏。不\n块人物造型、颜色、低模材质和场景质感。\n：：女主参考\n格保持图：女主的脸部身份、金棕色盘发、米白色礼帽与黑色羽毛、深蓝色无袖长裙、黑色长手套、黑丝袜与\n人物年龄、发型和服装。\ndance2.s\n多模态\n5:9·12P·B秒·MP4·x00",
+    "kept": true
+  },
+  {
+    "file": "f_0059.jpg",
+    "score": 0.0,
+    "conf": 0.842,
+    "chars": 56,
+    "text": "0:00/0:30\n0:00/0:30\n视频\n0:00\n它就能低成本生成这种\nsedo_225\n回权频\n0:00",
+    "kept": false
+  },
+  {
+    "file": "f_0060.jpg",
+    "score": 0.0,
+    "conf": 0.971,
+    "chars": 60,
+    "text": "视步\n视频\n0:00/0:30\n0/00:0\n它就能低成本生成这种\n0:00\nnode_221\n视频\n0:00/0:30",
+    "kept": false
+  },
+  {
+    "file": "f_0061.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 11,
+    "text": "30秒的一镜到底视频了",
+    "kept": false
+  },
+  {
+    "file": "f_0062.jpg",
+    "score": 15.0,
+    "conf": 0.668,
+    "chars": 1084,
+    "text": "第一次刷到我们的别友，可意还不如道刺楚举是么的，我无海举介船一下。\n星球是一个专门做必学习和到作内容的平台，我们主基教现示间怎写、A服片和现%业\n微，以及是包、即梦、可筑这营用A工科怎点所。\n我们不是只提供几节零教的程，面是然A工其、示词，围片，握，全列和定要的学习路持\n数到一个平台期。\n果你是一个A从小自，对A在感兴是，但是不知道片该先学什会：减者作已经收限了账多放程。\n一条视辣的时孩，正是不知道从哪是开始，那新期星球的诚程就比粒选合\n真正效一抓片、\n不害要有幅程服础，也不需要一上来就究帮别复杂的工具，可以先从疑采，A图片影隔学\n的能获流程并始学。\n很多小白学习A敬难处的地方，就是间上的内容看起来数多，氢芝用起来等报零强。\n尤其是提示词，间上晚实有很多可以业资复别的辑示测，敬是大部分答是高理抢你一整没定字。\n你复航过去可能遇尔用，但是要换个人物，换个播票，些成微第马上谎不一帮了。\n最后人物不哥，动作不对，候头他不对。你建应该维改一切都不加道。\n创收程的提示词基生越多，但顾一个题材还是不会写，这能是单线复制和真正学会能示满念隔的\n以今天直间右下角的一号键孩，是我们门为第一次座平台助整友备的9元月。\n购买以后可以使用一个月，平合就回课程全那解锁。\n你不需要务的买提示词课，也不需要学到一半而单他购买为演调。一作用步，就可以学习平\n台的提示词。A面片，A花程，工其教教完费常例。\n这个9元月专。不是要求作在一个月整起三多节课程全路看定，新是给你一个月时间，真正解\n次一个目完最想解决的问题。\n为什么我狼界小自先学习我们的提示阅！\n现为我们的损示调教程，不是英单经修一帮没定字，让你复定就结束。\n我们的课程业其零基能开始，一承定整的示词拆开集。\n无论是主体入赠，恶润构图，场录、键头机脱，充线，还是参数设，每个那分移有对应防专现\n怎么调。\n以后人物不对，你如道应诺检加体：孤割太乱，你加道底道整场整和购图：被头不合造。你\n知建应该难改机位：酒面质感不时，你帮通应请检查光线参教，\n以后丙选生成的图片藏表理不意。你至步知道问题可衡出在那蛋。意期通应道然么改爱\n0 1\nA证A帮助你优化。\n只货使用一次的满示强，离是美一个人物、美一个场量、换\n我也把这个运镜做成了skill\n第一、你至少知道意用的\n第二，你据裤看保示的基水结构，加道主你、场果\n第二，生或超塞不理影的好候，你如道应读从里修次，面不是肥票我现示全都推靠案。\n那写，你能答肥人图片，视和落础度程连接起来，完成属于自已的作品，\n这握结限所起案没有那头奇张，很难一个搬齐始接着入I购小自来说，融实际游。",
+    "kept": true
+  },
+  {
+    "file": "f_0063.jpg",
+    "score": 0.0,
+    "conf": 0.996,
+    "chars": 11,
+    "text": "大家有需要的可以自己拿",
+    "kept": false
+  },
+  {
+    "file": "f_0064.jpg",
+    "score": 3.0,
+    "conf": 0.998,
+    "chars": 12,
+    "text": "所以以后别再写运镜脚本了",
+    "kept": false
+  },
+  {
+    "file": "f_0065.jpg",
+    "score": 3.0,
+    "conf": 0.952,
+    "chars": 11,
+    "text": "直接用Codex就可以",
+    "kept": false
+  },
+  {
+    "file": "f_0066.jpg",
+    "score": 0.0,
+    "conf": 0.999,
+    "chars": 10,
+    "text": "那这个方法你学会了吗",
+    "kept": false
+  },
+  {
+    "file": "f_0067.jpg",
+    "score": 0.0,
+    "conf": 0.0,
+    "chars": 0,
+    "text": "",
+    "kept": false
+  },
+  {
+    "file": "f_0068.jpg",
+    "score": 0.0,
+    "conf": 0.986,
+    "chars": 30,
+    "text": "刺猬星球－一个聚集ai创意者的乌托邦\n@刺猬星球superi",
+    "kept": false
+  },
+  {
+    "file": "f_0069.jpg",
+    "score": 0.0,
+    "conf": 0.989,
+    "chars": 30,
+    "text": "刺猬星球－一个聚集ai创意者的乌托邦\n@刺猬星球superi",
+    "kept": false
+  }
+]
